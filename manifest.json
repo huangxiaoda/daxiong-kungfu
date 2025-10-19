@@ -1,4 +1,5 @@
- "name": "大熊学武功：功夫节奏挑战",
+"version": "1.1",
+"name": "大熊学武功：功夫节奏挑战",
   "short_name": "大熊学武功",
   "description": "一款节奏感十足的功夫挑战游戏，看师傅演示，快速点击对应招式！",
   "version": "1.0",
@@ -23,3 +24,4 @@
   "categories": ["games", "education", "entertainment"],
   "lang": "zh-CN",
   "author": "大熊工作室"
+
